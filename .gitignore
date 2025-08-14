@@ -1,0 +1,20 @@
+# Dart specific
+.dart_tool/
+.packages
+
+# Flutter specific (optional for plain Dart)
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+pubspec.lock
+
+# IntelliJ IDEA project settings
+.idea/
+*.iml
+
+# Build outputs
+build/
+
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
